@@ -8,4 +8,4 @@ http://cdn04.sportsbay.xyz:2052/live-2/494/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 
 #EXTINF:0,ESPN 4 
 #EXTVLCOPT:network-caching=1000
-http://pull.mit-edu.xyz:8081/DEP/espn_4_cl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgNzozMjo0NSBQTSZoYXNoX3ZhbHVlPUxxTURISzNoTXB5WXRkdGR5RGkvdEE9PSZ2YWxpZG1pbnV0ZXM9MjIw
+http://pull.mit-edu.xyz:8081/DEP/espn_4_cl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgODozMDoyNCBQTSZoYXNoX3ZhbHVlPWJvendqb0liODhyREJNTEowOUMyM1E9PSZ2YWxpZG1pbnV0ZXM9MjIw
