@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgNTozNzowNiBBTSZoYXNoX3ZhbHVlPTh5UFBqcGg0UmZVRkMxYjVVMVd5VWc9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
+http://pull.mit-edu.xyz:8081/DEP/FUTV6565/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgNTozNzowNiBBTSZoYXNoX3ZhbHVlPTh5UFBqcGg0UmZVRkMxYjVVMVd5VWc9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgNjowMToyMiBBTSZoYXNoX3ZhbHVlPW9sWE1sczhyMisvZGhVMWxRLzNqbFE9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
+http://pull.mit-edu.xyz:8081/DEP/TIG_SPO_CR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgNjowMToyMiBBTSZoYXNoX3ZhbHVlPW9sWE1sczhyMisvZGhVMWxRLzNqbFE9PSZ2YWxpZG1pbnV0ZXM9MjIw
