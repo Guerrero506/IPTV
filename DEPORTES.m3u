@@ -1,10 +1,17 @@
 #EXTM3U
-#EXTINF:0,FUTV
-#EXTVLCOPT:network-caching=1000
-http://51.222.30.250:25461/bulltvn3w/appnew/1041?token=HhFfA0ZZGghHU1cDB1YEBVFRB1ZWWAJUDABSUFsCVlABAQYGAFRcVlQUTxQWFRNUAAltC1AbDQYIVlBPQUESUBdsXgYXCxoDXQFBGkcVCFwERghTAgwOAQxWUlRVGENFDFcVWBcACwNUAkEaRwQZRQQWXANYZlNSTgsCBkEOD0AJXxtAWl9nVgBbAlgBQ1sTUUYeQF1KRxUCDBQPDxhDVwxHRQNBVBoIRwRTAVJDTRMCC0cMQEtOFQJAIjFBGENQHUdSDEZYV1xHDEFCFkNNEwgXbRBRSkNFXQMMBhEWWxdVERtAWFBAbQZZDVgAAhVYDgpBQA4bBxUUQAwMDV0VWhdsRwtREwIQVwBUB11DHA==
-#EXTINF:0,TIGO SPORT
-#EXTVLCOPT:network-caching=1000
-http://51.222.26.249:25461/bulltvn3w/appnew/790?token=HhFfA0ZZGghHVVJVU1EHCVRSU1YBXFQBWlcDU1JVBw1QVQQHAVJdAVAUTxQWFRNUAAltC1AbDQABUk1BFkcERzpaU0APEwkKUhRPFBEIDFRDXgNUAQABAw5QUlpPFhFcARENQAQBCQFRFE8UABkVVBMKUw5rXVJBUQEEQVlaFFkJHxUNW25cVwhXDVJHW0MBQ0gQC0dJFQ1WFw0PTxYDXBFBVhZQEwIQVABXAEdNQ1IOEVwWRkAVDRohM0FPFgRNEVZZEVxeVhBfFBdFR01DWBI7QAdHTUVSWQ8EEUEOQwVHHxUPVElnUQpYDVMGFQheDxcQWBYJFRsaDw4NCkAORzpDXgYXCxoAVgdSFBg=
-#EXTINF:0,ESPN 4 
-#EXTVLCOPT:network-caching=1000
-http://pull.mit-edu.xyz:8081/DEP/espn_4_cl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjIgOTowMTo1OSBQTSZoYXNoX3ZhbHVlPWkvRERNTWh2SE50d3dsaVIxcUF3SGc9PSZ2YWxpZG1pbnV0ZXM9MjIw
+#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV OP1" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="COSTA RICA",CR | FUTV OP1
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77982
+#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV OP2" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="COSTA RICA",CR | FUTV OP2
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77983
+#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV OP3" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="COSTA RICA",CR | FUTV OP3
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77984
+#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORTS CR OP1" tvg-logo="https://1.bp.blogspot.com/-_R8__cTtQeE/XxsilaQw-4I/AAAAAAABDik/kr8exP5-O2w8Q2CWjcHByeV1dUUOyvmuQCLcBGAsYHQ/s549/TIGOSPORTSCR.png" group-title="COSTA RICA",CR | TIGO SPORTS CR OP1
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77985
+#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORTS CR OP2" tvg-logo="https://1.bp.blogspot.com/-_R8__cTtQeE/XxsilaQw-4I/AAAAAAABDik/kr8exP5-O2w8Q2CWjcHByeV1dUUOyvmuQCLcBGAsYHQ/s549/TIGOSPORTSCR.png" group-title="COSTA RICA",CR | TIGO SPORTS CR OP2
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77986
+#EXTINF:-1 tvg-id="" tvg-name="CR | TIGO SPORTS CR OP3" tvg-logo="https://1.bp.blogspot.com/-_R8__cTtQeE/XxsilaQw-4I/AAAAAAABDik/kr8exP5-O2w8Q2CWjcHByeV1dUUOyvmuQCLcBGAsYHQ/s549/TIGOSPORTSCR.png" group-title="COSTA RICA",CR | TIGO SPORTS CR OP3
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77987
+#EXTINF:-1 tvg-id="" tvg-name="CR | TD+ 1" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png" group-title="COSTA RICA",CR | TD+ 1
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77988
+#EXTINF:-1 tvg-id="" tvg-name="CR | TD+ 2" tvg-logo="https://static.epg.best/cr/TDPlus2.cr.png" group-title="COSTA RICA",CR | TD+ 2
+http://fenixplay.info:8080/TV8317/qbxRGMSBsU8R/77989
